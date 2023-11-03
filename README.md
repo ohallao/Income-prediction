@@ -21,5 +21,6 @@ https://github.com/ohallao/Income-prediction/assets/47067864/81381926-109c-4c02-
 
 
 
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/rhatiro/previsao-renda/blob/main/ebac-projeto02-previsao_renda-roberto_hatiro.ipynb)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://rhatiro-ebac-projeto02-previsao-renda.streamlit.app/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)]()
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)]()
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252)]()
