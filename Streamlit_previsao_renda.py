@@ -38,7 +38,6 @@ st.sidebar.markdown('''
 
 **Por:** [Allan Figueiredo Santiago](https://www.linkedin.com/in/allan-santiago/)<br>
 **Data:** 31 de outubro de 2023.<br>
-<!-- **Última atualização:** 14 de abril de 2023. -->
 
 ---
 ''', unsafe_allow_html=True)
